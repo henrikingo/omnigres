@@ -304,3 +304,4 @@ Once you are ready to contribute, please check out the [contribution guidelines]
 
 
 [Discord]: https://discord.omnigr.es
+
